@@ -20,7 +20,7 @@ class ZhiHu(object):
         self.timestamp = int(time.time() * 1000)
         self.phone = input("请输入手机号:")  # 账号
         self.password = input("请输入密码:")  # 密码
-        self.username = '我的邀请'  # 用户名，用于验证登陆
+        self.username = '我的邀请'  # 用于验证登陆
         self.headers = {
             "content-type":"application/x-www-form-urlencoded",
             "origin":"https://www.zhihu.com",

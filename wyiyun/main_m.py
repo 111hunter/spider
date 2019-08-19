@@ -85,4 +85,4 @@ if __name__ == '__main__':
 		""")
 		w=input("  请选择：")
 		os.system('cls')
-		choice(w)		
+		choice(w)	
