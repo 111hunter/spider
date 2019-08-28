@@ -11,3 +11,4 @@
 <br/>[企名片数据](https://github.com/111hunter/spider/tree/master/qimingpian)</br>
 <br/>[www.gsxt.gov.cn](https://github.com/111hunter/spider/tree/master/gsxt)</br>
 <br/>[零度高匿ip代理](https://github.com/111hunter/spider/tree/master/nyloner)</br>
+<br/>[烯牛数据](https://github.com/111hunter/spider/tree/master/xiniu)</br>
