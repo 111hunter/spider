@@ -7,3 +7,4 @@
 <br/>[12306订票](https://github.com/111hunter/spider/tree/master/12306)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[豆瓣图书搜索书评词云](https://github.com/111hunter/spider/tree/master/douban)</br>
 <br/>[网易云音乐(简单播放器)](https://github.com/111hunter/spider/tree/master/wyiyun)</br>
 ### app逆向入门学习
+<br/>[frida hook入门](https://github.com/111hunter/spider/tree/master/appdemo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[frida官网rps.apk](https://www.frida.re/docs/examples/android/?nsukey=iHdKyPICoun37G9H1hqnY1CX0JK%2BagLwyLQ7JE8lKEr%2B%2BPw8D4U5EbnrloweayvdjDcFhQ1i0O6rj0QDr8rhWwkX4fvh7EOXC0kB03n%2BpuTED6%2BVByMVbueH7vCtJGs1Gd9j9huhytVCTyp88NkBi3C4KZEBxm86V4BKPlFlAofepqXb4cdkd029TPz%2F0NxUFrZohkiVTMLU8JmodK%2F3Mg%3D%3D)
