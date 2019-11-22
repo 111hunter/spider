@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/python-3.7.1-green) ![](https://img.shields.io/badge/requests-2.22.0-green)
+![](https://img.shields.io/badge/PyExecJS-1.5.1-green) ![](https://img.shields.io/badge/frida-12.7.4-green)
+![](https://img.shields.io/badge/frida--tools-5.0.1-green)
 ### js逆向学习记录
 代码仅供学习交流
 
